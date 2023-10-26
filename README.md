@@ -8,7 +8,7 @@ Predicting house prices with machine learning offers benefits such as aiding rea
 
 ## Scope
 
-The available data describes house sold in King County, USA from May 2014 to May 2015. It has been downloaded from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data). Two multiple linear regression algorithms will be tested, ordinary least squares and lasso regression. These will not be used to extrapolate beyond the range of the available data. Instead predictions will be made for a randomly sampled holdout test set.
+The available data describes house sold in King County, USA from May 2014 to May 2015. It has been downloaded from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data).
 
 ## File structure
 
