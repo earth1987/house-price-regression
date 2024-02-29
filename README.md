@@ -13,17 +13,19 @@ The available data describes house sold in King County, USA from May 2014 to May
 ## File structure
 
 <pre>
+|- data/
+   |- raw/
+   |- cleaned/
+|- house-price-regression/
+   |- custom_funcs.py
+   |- config.py
 |- notebooks/
    |- data_exploration.ipynb
    |- linear_model_selection_evaluation.ipynb
    |- nonlinear_model_selection_evaluation.ipynb
    |- figures/
-|- house-price-regression/
-   |- custom_funcs.py
-   |- config.py
-|- data/
-   |- raw/
-   |- cleaned/
+|- .gitignore
+|- LICENSE
 |- README.md
 </pre>
 
